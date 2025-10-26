@@ -30,6 +30,3 @@
 </div>
 
 ---
-
-### 🌟 Motto
-> Taking one small step every day to improve 🚀
